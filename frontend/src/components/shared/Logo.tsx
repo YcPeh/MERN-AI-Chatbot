@@ -13,7 +13,7 @@ const Logo = () => {
     >
       <Link to={"/"}>
         <img
-          src="/openai.png"
+          src="openai.png"
           alt="openai"
           width={"30px"}
           height={"30px"}
